@@ -2,7 +2,7 @@
   "name": "web-speech-colours",
   "version": "1.0.0",
   "description": "",
-  "main": "colors.js",
+  "main": "speech.js",
   "scripts": {
     "start": "parcel index.html"
   },
